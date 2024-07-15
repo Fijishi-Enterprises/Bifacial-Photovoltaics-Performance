@@ -28,25 +28,3 @@ We have a tutorial video, showing how the program is structured, how to use the 
 
 Check out the [Jupyter Tutorial Notebooks](docs/tutorials/) to see detailed examples of the capacities of bifacial_radiance.
 The [Intro examples](https://bifacial-radiance.readthedocs.io/en/stable/introexamples.html) and the [readthedocs documentation](https://bifacial-radiance.readthedocs.io) also provide a good starting point.
-
-## Contributing
-
-We need your help to make bifacial_radiance a great tool! Please see the [Contributing page](https://bifacial-radiance.readthedocs.io/en/stable/contributing.html) for more on how you can contribute. The long-term success of bifacial_radiance requires substantial community support.
-
-## License
-
-Bifacial_radiance open source code is copyrighted by the Alliance for Sustainable Energy and licensed with BSD-3-Clause terms, found [here](https://github.com/NREL/bifacial_radiance/blob/master/LICENSE).
-
-## Getting Support
-
-If you suspect that you may have discovered a bug or if you'd like to
-change something about bifacial_radiance, then please make an issue on our
-[GitHub issues page](https://github.com/NREL/bifacial_radiance/issues).
-
-bifacial_radiance questions can be asked on
-[Stack Overflow](http://stackoverflow.com) and tagged with
-the [bifacial_radiance](http://stackoverflow.com/questions/tagged/bifacial_radiance) tag.
-
-The [bifacial-radiance google group](https://groups.google.com/forum/#!forum/bifacial_radiance) 
-has just started, and will be used for discussing various topics of interest to the bifacial-radiance
-community. We also make new version announcements on the google group.
